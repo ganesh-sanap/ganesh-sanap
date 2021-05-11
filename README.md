@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh Sanap
 - 👀 I’m interested in SharePoint, Microsoft 365, Power Platform, Azure & AI
-- 📫 Reach me at [Contact](https://ganeshsanapblogs.wordpress.com/about)
+- 📫 Reach me at [Contact](https://ganeshsanapblogs.wordpress.com/contact/)
 
 <!--- - 🌱 I’m currently learning ... -->
 <!--- - 💞️ I’m looking to collaborate on ... -->
