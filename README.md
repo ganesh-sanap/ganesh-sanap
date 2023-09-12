@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ganesh Sanap
-- 👀 I’m interested in SharePoint, Microsoft 365, Power Platform, Azure & AI
+- 🏆 Microsoft MVP | MCT | MCP | PnP Contributor
+- 🐱‍💻 Blogger at [https://ganeshsanapblogs.wordpress.com/](https://ganeshsanapblogs.wordpress.com/)
+- 👀 I’m interested in SharePoint, Microsoft 365, Power Platform projects
 - 📫 Reach me at [Contact](https://ganeshsanapblogs.wordpress.com/contact/)
 
 <!--- - 🌱 I’m currently learning ... -->
