@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ganesh Sanap
-- 🏆 Microsoft MVP | MCT | MCP | PnP Contributor
+- 🏆 Microsoft MCT | MCP | PnP Contributor
 - 🐱‍💻 Blogger at [https://ganeshsanapblogs.wordpress.com/](https://ganeshsanapblogs.wordpress.com/)
 - 👀 I’m interested in SharePoint, Microsoft 365, Power Platform projects
 - 📫 Reach me at [Contact](https://ganeshsanapblogs.wordpress.com/contact/)
